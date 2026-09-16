@@ -1,0 +1,6 @@
+Venda: 3214
+Usuário: caua
+Produto: Disco Xscape
+Valor: R$ 110
+Pagamento: PIX
+Data: 23/08/2026 17:04:49

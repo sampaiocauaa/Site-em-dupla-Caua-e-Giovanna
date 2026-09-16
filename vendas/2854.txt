@@ -1,0 +1,8 @@
+Venda: 2854
+Usuário: caua
+Data: 23/08/2026 17:05:31
+Pagamento: Cartão
+Total: R$ 210
+--- ITENS ---
+Produto: Disco Bad | Valor: R$ 120 | Quantidade: 1 | Subtotal: R$ 120
+Produto: Disco Rita Lee | Valor: R$ 90 | Quantidade: 1 | Subtotal: R$ 90
